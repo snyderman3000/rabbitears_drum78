@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Rabbit Ears
+Comment=A 90s TV: flip through your videos like channels
+Exec=launch.sh
+Icon=rabbitears
+Categories=applications
+Terminal=false
+X-OD-Manual=README.txt
